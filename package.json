@@ -1,0 +1,17 @@
+{
+  "name": "grechabuf-protobuf-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grechabuf": "^2.1.0",
+    "lodash.isequal": "^4.5.0",
+    "protobufjs": "^7.3.2"
+  }
+}
